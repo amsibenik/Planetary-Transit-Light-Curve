@@ -8,6 +8,6 @@ Notes:\
 * A lot of RAM is required to run this code (Approximately 8GB). I may re-code this in future to be more efficient with RAM.
 
 File Naming Scheme:\
-* FLATs:   x.00000000.FLAT.FIT  &emsp; -> &emsp;  x.00000009.FLAT.FIT
-* BIASs:   x.00000010.BIAS.FIT  &emsp; -> &emsp;  x.00000019.BIAS.FIT
-* Frames:   x.00000020.FIT  &emsp; -> &emsp;  x.00000999.FIT
+* FLATs:&emsp;   x.00000000.FLAT.FIT  &emsp; -> &emsp;  x.00000009.FLAT.FIT
+* BIASs:&emsp;   x.00000010.BIAS.FIT  &emsp; -> &emsp;  x.00000019.BIAS.FIT
+* Frames:&emsp;   x.00000020.FIT  &emsp; -> &emsp;  x.00000999.FIT
